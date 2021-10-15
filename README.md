@@ -32,12 +32,14 @@
  ---
 
 <p>
-  <img align='left' src="https://kr-labs.com.ua/wp-content/uploads/599dd68f3eb2f600018d4837_icon-5.png">
+  <img align='left' src="https://kr-labs.com.ua/wp-content/uploads/it-security.png">
 </p>
 
 ### IT безпека
 Кіберзахист веб-сайтів і серверів від несанкціонованого доступу і хакерських атак. Антивірусний захист, тестування на проникнення, інформаційна безпека. Аудит захищеності IT-систем, моніторинг кібер-загроз, digital-розслідування (форензика), пошук та усунення витоків даних.
 [Детальніше 👉](https://kr-labs.com.ua/service/cybersecurity/)
+
+ ---
 
 <p>
   <img align='right' src="https://kr-labs.com.ua/wp-content/uploads/599dd68f3eb2f600018d4837_icon-5.png">
@@ -47,71 +49,28 @@
 Надійний український доступний веб-хостинг для сайтів на базі VPS/VDS серверів. Стабільність і швидкодія, гнучкість, легке масштабування, необмежений трафік і відсутність лімітів. Усі сервери розміщені в кращих європейських дата-центрах.
 [Детальніше 👉](https://kr-labs.com.ua/service/web-hosting/)
 
-
-<details>
- <summary><strong>other favorite posts</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
- 
-</details>
-
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
-
 ---
 
-### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=krlabs&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/krlabs/github-readme-stats)
 
-
-<!--
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
-<a href='https://twitter.com/natterstefan'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
-</a>
-<a href='https://twitter.com/natterstefan'>
-    Stefan Natter 🇦🇹👋🏻
-</a>
-I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️ | 📧 https://t.co/Jpwh9TFgNx (🐈🐈 🤵👰🏻 🇦🇹)
-<h2></h2><a href='https://twitter.com/commanderquest'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1243185628864528384/eFnPWZyC_normal.jpg' />
-</a>
-<a href='https://twitter.com/commanderquest'>
-    Commander Quest
-</a>
-On a mission to the furthest frontiers of tech and talent. 
-Follow my adventures at Club Freelance's Mission Control Center 👉 https://t.co/D4k36nU2at
-<h2></h2><a href='https://twitter.com/benjaminwardcom'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1283469746055385088/sr9ZExwG_normal.jpg' />
-</a>
-<a href='https://twitter.com/benjaminwardcom'>
-    Benjamin Ward
-</a>
-software engineer, dev coach, Star Wars fanatic, learning enthusiast, host of the Download Knowledge Podcast https://t.co/V2bIR93cQW
-<h2></h2><a href='https://twitter.com/tucker_dev'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284727066160705536/VhioFBZE_normal.jpg' />
-</a>
-<a href='https://twitter.com/tucker_dev'>
-    James Tucker
-</a>
-software engineer at @soonastudios. career switcher. vue + rails. tweeting about tech, books, startups, and big ideas. writing @ https://t.co/SPyap1XFWD. he/him
-<h2></h2><a href='https://twitter.com/BenGuthmiller'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284966756906409984/MR0a9hi2_normal.jpg' />
-</a>
-<a href='https://twitter.com/BenGuthmiller'>
-    Ben Guthmiller
-</a>
-Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investor | Tweets are my own opinions
-<h2></h2>
--->
-<p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
- <p/>
-<div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
-		<img src="follower.svg" width="800" height="140">
-	</a>
-</div>
-
-## Stargazers
-
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
+## 🔧 Наш технологічний стек:
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&logo=centos&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=065FD4)
+![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=065FD4)
