@@ -1,8 +1,6 @@
 # [![waylon walker header](https://kr-labs.com.ua/wp-content/uploads/kr-labs-banner.png)](https://kr-labs.com.ua)
 
 <p align='center'>
-<a href="https://facebook.com/kr.laboratories"><img height="30" src="https://kr-labs.com.ua/wp-content/uploads/facebook.png"></a>&nbsp;&nbsp;
-<a href="https://t.me/kr_laboratories"><img height="30" src="https://kr-labs.com.ua/wp-content/uploads/telegram.png"></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/company/kr-laboratories"><img height="30" src="https://kr-labs.com.ua/wp-content/uploads/linkedin.png"></a>&nbsp;&nbsp;
 </p>
 
