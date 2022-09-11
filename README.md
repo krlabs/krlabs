@@ -2,7 +2,6 @@
 
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 ![](https://komarev.com/ghpvc/?username=krlabs&color=brightgreen)
-<div align="right">[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/kr-laboratories/)</div>
 
 Вітаємо! 👋
 
@@ -78,3 +77,8 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=065FD4)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=065FD4)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=065FD4)
+
+## 🌐 Ми в соцмережах:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/kr-laboratories/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KrLaboratories)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://blog.kr-labs.com.ua)
