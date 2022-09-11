@@ -80,5 +80,5 @@
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=065FD4)
 
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
+![](https://komarev.com/ghpvc/?username=krlabs)
 
-![](https://komarev.com/ghpvc/?username=krlabs=green)
