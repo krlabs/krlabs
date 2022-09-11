@@ -2,8 +2,7 @@
 
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 ![](https://komarev.com/ghpvc/?username=krlabs&color=brightgreen)
-
-<a href="https://linkedin.com/company/kr-laboratories"><img height="30" src="https://kr-labs.com.ua/wp-content/uploads/linkedin.png"></a>&nbsp;&nbsp;
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Вітаємо! 👋
 
