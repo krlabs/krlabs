@@ -1,5 +1,8 @@
 # [![waylon walker header](https://kr-labs.com.ua/wp-content/uploads/kr-labs-banner.png)](https://kr-labs.com.ua)
 
+[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
+![](https://komarev.com/ghpvc/?username=krlabs&color=brightgreen)
+
 <p align='right'>
 <a href="https://linkedin.com/company/kr-laboratories"><img height="30" src="https://kr-labs.com.ua/wp-content/uploads/linkedin.png"></a>&nbsp;&nbsp;
 </p>
@@ -78,6 +81,3 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=065FD4)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=065FD4)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=065FD4)
-
-[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
-![](https://komarev.com/ghpvc/?username=krlabs&color=brightgreen)
