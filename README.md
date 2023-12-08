@@ -5,7 +5,7 @@
 
 Вітаємо! 👋
 
-<b>KR. LABORATORIES</b> - це Digital-студія інформаційних технологій. Надаємо IT-послуги повного циклу: досліджуємо, розробляємо, оптимізуємо, захищаємо, обслуговуємо інформаційні системи та електронні ресурси. Застосовуємо сучасні практики і методології, автоматизуємо процеси, інтегруємо високі технології, пропонуємо новітні рішення і стандарти.
+<b>KR. LABORATORIES</b> - це Digital-лабораторія інформаційних технологій. Надаємо IT-послуги повного циклу: досліджуємо, розробляємо, оптимізуємо, захищаємо, обслуговуємо інформаційні системи та електронні ресурси. Застосовуємо сучасні практики і методології, автоматизуємо процеси, інтегруємо високі технології, пропонуємо новітні рішення і стандарти.
 
   ---
  
@@ -51,7 +51,7 @@
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=krlabs&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/krlabs/github-readme-stats)
 
-## 🔧 Наш технологічний стек:
+## 🔧 Ми застосовуємо:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=065FD4)
 ![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&logo=centos&logoColor=white&color=065FD4)
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=065FD4)
@@ -78,9 +78,3 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=065FD4)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=065FD4)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=065FD4)
-
-## 🌐 Ми в соцмережах:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/kr-laboratories/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KrLaboratories)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://blog.kr-labs.com.ua)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/bePatron?u=61340860)
