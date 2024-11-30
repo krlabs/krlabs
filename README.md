@@ -1,4 +1,4 @@
-# [![waylon walker header](https://raw.githubusercontent.com/krlabs/krlabs/refs/heads/main/kr-labs-banner.png)](https://kr-labs.com.ua)
+# [![krlabs](https://raw.githubusercontent.com/krlabs/krlabs/refs/heads/main/kr-labs-banner.png)](https://kr-labs.com.ua)
 
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 ![](https://komarev.com/ghpvc/?username=krlabs&color=brightgreen)
