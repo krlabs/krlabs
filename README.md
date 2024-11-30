@@ -8,7 +8,7 @@
   ---
  
  <p>
-  <a href="https://kr-labs.com.ua/service/seo/" target="_blank"><img align='left' src="https://kr-labs.com.ua/wp-content/uploads/it-security.png"></a>
+  <a href="https://kr-labs.com.ua/service/seo/" target="_blank"><img align='left' src="https://raw.githubusercontent.com/krlabs/krlabs/refs/heads/main/it-security.png"></a>
 </p>
  
 ### IT безпека
@@ -18,7 +18,7 @@
  ---
 
 <p>
-  <a href="https://kr-labs.com.ua/service/it-outsourcing/" target="_blank"><img align='right' src="https://kr-labs.com.ua/wp-content/uploads/599dd68f3eb2f600018d483a_icon-1.png"></a>
+  <a href="https://kr-labs.com.ua/service/it-outsourcing/" target="_blank"><img align='right' src="https://raw.githubusercontent.com/krlabs/krlabs/refs/heads/main/599dd68f3eb2f600018d483a_icon-1.png"></a>
 </p>
 
 ### IT аутсорсинг
@@ -28,7 +28,7 @@
  ---
 
 <p>
-   <a href="https://kr-labs.com.ua/service/cybersecurity/" target="_blank"><img align='left' src="https://kr-labs.com.ua/wp-content/uploads/599dd68f3eb2f600018d4836_icon-3.png"></a>
+   <a href="https://kr-labs.com.ua/service/cybersecurity/" target="_blank"><img align='left' src="https://raw.githubusercontent.com/krlabs/krlabs/refs/heads/main/599dd68f3eb2f600018d4836_icon-3.png"></a>
 </p>
 
 ### Технічна підтримка
@@ -38,7 +38,7 @@
  ---
 
 <p>
-   <a href="https://kr-labs.com.ua/service/web-hosting/" target="_blank"><img align='right' src="https://kr-labs.com.ua/wp-content/uploads/599dd68f3eb2f600018d4837_icon-5.png"></a>
+   <a href="https://kr-labs.com.ua/service/web-hosting/" target="_blank"><img align='right' src="https://raw.githubusercontent.com/krlabs/krlabs/refs/heads/main/599dd68f3eb2f600018d4837_icon-5.png"></a>
 </p>
 
 ### Веб-хостинг
