@@ -3,7 +3,9 @@
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 ![](https://komarev.com/ghpvc/?username=krlabs&color=brightgreen)
 
-<b>KR. LABORATORIES</b> - це інформаційно-дослідницька група, що спеціалізується на кібербезпеці та інформаційних технологіях. Стоїмо на сторожі UAnet з 2019 року. Експертиза високих технологій і синтез наукових методів. Комплексний підхід до вирішення задач у цифровому просторі.
+<b>KR. LABORATORIES</b> - це інформаційно-дослідницька група, що спеціалізується на кібербезпеці та інформаційних технологіях. Стоїмо на сторожі UAnet з 2019 року. 
+>>Експертиза високих технологій і синтез наукових методів.
+>>Комплексний підхід до вирішення задач у цифровому просторі.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00BB4F&multiline=true&width=435&height=120&lines=krlabs%40github%3A~%24+nc+-lvnp+4444...;Connection+received+from+192.168.1.101...;id;uid%3D0(root)+gid%3D0(root)+groups%3D0(root);echo+%22Welcome+to+the+KR.+Laboratories%22)](https://git.io/typing-svg)
 
